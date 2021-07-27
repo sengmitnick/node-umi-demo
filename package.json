@@ -3,7 +3,7 @@
   "name": "node-nsq313",
   "version": "1.0.0",
   "scripts": {
-    "dev": "dumi dev",
+    "start": "dumi dev",
     "docs:build": "dumi build",
     "docs:deploy": "gh-pages -d docs-dist",
     "build": "father-build",
